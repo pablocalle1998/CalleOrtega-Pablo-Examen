@@ -17,7 +17,7 @@ Las consultas a la base de datos debe ser implementada usando JPQL o Criteria.
 
 Las tablas de la base de datos debe ser ejecutadas desde JEE. Estructura de la base de datos:
 
-https://github.com/pablocalle1998/CalleOrtega-Pablo-Examen/blob/master/imagenes/4.png
+pablocalle1998/CalleOrtega-Pablo-Examen/blob/master/imagenes/4.png
 
 
 
