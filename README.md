@@ -2,9 +2,9 @@
 CalleOrtega-Pablo-Examen
 Examen de plataformas web
 
-Enunciado
+Enunciado:
 
-https://github.com/pablocalle1998/CalleOrtega-Pablo-Examen/blob/master/imagenes/1.png
+imagenes/1.png
 https://github.com/pablocalle1998/CalleOrtega-Pablo-Examen/blob/master/imagenes/2.png
 
 
