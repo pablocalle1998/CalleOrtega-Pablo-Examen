@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Agregar capitulos del libro</title>
+<title>Agregar capitulos de libro</title>
 </head>
 <body>
 
