@@ -8,5 +8,10 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/Caleb/Documents/8 Ciclo/Plataformas web/eclipselink.jar"/>
+	<classpathentry kind="lib" path="D:/Caleb/Documents/8 Ciclo/Plataformas web/jakarta.persistence_2.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Caleb/Documents/8 Ciclo/Plataformas web/jstl-api-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Caleb/Documents/8 Ciclo/Plataformas web/jstl-impl-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Caleb/Documents/8 Ciclo/Plataformas web/mysql-connector-java-8.0.20.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
