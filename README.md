@@ -4,7 +4,7 @@ Examen de plataformas web
 
 Enunciado:
 
-imagenes/1.png
+1.png
 
 CalleOrtega-Pablo-Examen/blob/master/imagenes/2.png
 
