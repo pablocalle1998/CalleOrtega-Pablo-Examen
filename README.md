@@ -6,7 +6,7 @@ Enunciado:
 
 imagenes/1.png
 
-https://github.com/pablocalle1998/CalleOrtega-Pablo-Examen/blob/master/imagenes/2.png
+CalleOrtega-Pablo-Examen/blob/master/imagenes/2.png
 
 
 Desarrollar una aplicación JEE basada en Servlets como controladores, Java Server Pages como vista y JavaBeans como modelo.
