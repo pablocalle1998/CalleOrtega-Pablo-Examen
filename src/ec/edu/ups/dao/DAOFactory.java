@@ -12,7 +12,7 @@ public abstract class DAOFactory {
     }
 	
     
-    public abstract LibroDAO getClienteDAO();
-    public abstract CapituloDAO getVehiculoDAO();
-    public abstract AutorDAO getTicketDAO();
+    public abstract LibroDAO getLibroDAO();
+    public abstract CapituloDAO getCapituloDAO();
+    public abstract AutorDAO getAutorDAO();
 }
